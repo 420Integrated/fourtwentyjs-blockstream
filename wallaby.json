@@ -1,0 +1,12 @@
+{
+  "files": [
+    "source/**/*.ts",
+    "tests/helpers.ts"
+  ],
+  "tests": [
+    "tests/index.ts"
+  ],
+  "env": {
+    "type": "node"
+  }
+}
